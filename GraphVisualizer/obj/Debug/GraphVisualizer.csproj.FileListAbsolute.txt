@@ -1,0 +1,10 @@
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\bin\Debug\GraphVisualizer.exe.config
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\bin\Debug\GraphVisualizer.exe
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\bin\Debug\GraphVisualizer.pdb
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\obj\Debug\GraphVisualizer.csproj.AssemblyReference.cache
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\obj\Debug\GraphVisualizer.Form1.resources
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\obj\Debug\GraphVisualizer.Properties.Resources.resources
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\obj\Debug\GraphVisualizer.csproj.GenerateResource.cache
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\obj\Debug\GraphVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\obj\Debug\GraphVisualizer.exe
+C:\Users\nikiv\source\repos\GraphVisualizer\GraphVisualizer\obj\Debug\GraphVisualizer.pdb
